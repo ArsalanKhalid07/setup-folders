@@ -1,0 +1,19 @@
+.main {
+	background-color: pink;
+	height: 300px;
+	flex-direction:  row-reverse;
+}
+
+.a {
+	height: 30px;
+	background-color: red;
+	
+}
+.b {
+	height: 30px;
+	background-color: yellow;
+}
+.c {
+	height: 30px;
+	background-color: green;
+}
